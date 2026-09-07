@@ -1,0 +1,16 @@
+# Visual Studio 임시/설정 파일 제외
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 빌드 결과물 제외
+[Dd]ebug/
+[RRelease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.pdb
