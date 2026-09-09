@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\GitGit\\gamesogong\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|solutionrelative:SimpleGame\\TutorialGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|solutionrelative:SimpleGame\\TutorialGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|C:\\GitGit\\gamesogong\\SimpleGame\\SimpleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25179D6C-FA85-4619-8EDB-AC241382F6CA}|SimpleGame\\SimpleGame.vcxproj|solutionrelative:SimpleGame\\SimpleGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TutorialGame.cpp",
+              "DocumentMoniker": "C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.cpp",
+              "RelativeDocumentMoniker": "SimpleGame\\TutorialGame.cpp",
+              "ToolTip": "C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.cpp",
+              "RelativeToolTip": "SimpleGame\\TutorialGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T08:03:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TutorialGame.h",
+              "DocumentMoniker": "C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.h",
+              "RelativeDocumentMoniker": "SimpleGame\\TutorialGame.h",
+              "ToolTip": "C:\\GitGit\\gamesogong\\SimpleGame\\TutorialGame.h",
+              "RelativeToolTip": "SimpleGame\\TutorialGame.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-09T08:03:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleGame.cpp",
+              "DocumentMoniker": "C:\\GitGit\\gamesogong\\SimpleGame\\SimpleGame.cpp",
+              "RelativeDocumentMoniker": "SimpleGame\\SimpleGame.cpp",
+              "ToolTip": "C:\\GitGit\\gamesogong\\SimpleGame\\SimpleGame.cpp",
+              "RelativeToolTip": "SimpleGame\\SimpleGame.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T08:02:32.57Z"
             }
           ]
         }
